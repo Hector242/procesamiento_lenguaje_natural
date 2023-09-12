@@ -8,3 +8,6 @@ imbalanced-learn
 datetime
 scipy
 gensim
+keras
+spacy
+tensorflow
