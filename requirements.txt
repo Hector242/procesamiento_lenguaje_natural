@@ -11,3 +11,4 @@ gensim
 keras
 spacy
 tensorflow
+plotly
